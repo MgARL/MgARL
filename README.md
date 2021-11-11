@@ -5,13 +5,13 @@
 - 🌱 I’m currently learning  JavaScript
 - 👯 I’m looking to collaborate in the open source community!
 - 🥅 My Goals: learn React, Node.js, Express, SQL, MySQL, MongoDB, Python, Django
-- ⚡ I love to pay video-games, build gaming computers!! and Crypto Mining. 
+- ⚡ I love to play video-games, build gaming computers!! and Crypto Mining.
 
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 
 <br />
