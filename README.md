@@ -1,11 +1,11 @@
 # Hello, I'm Miguel!
 
-## I'm currently learning to become a full-stack Web developer
+## Striving to become a full stack web developer!
 
-- 🌱 I’m currently learning  JavaScript
+- 🌱 I’m currently learning  Express.js
 - 👯 I’m looking to collaborate in the open source community!
-- 🥅 My Goals: learn React, Node.js, Express, SQL, MySQL, MongoDB, Python, Django
-- ⚡ I love to play video-games, build gaming computers!! and Crypto Mining.
+- 🥅 My Goals: learn React, SQL, MySQL, MongoDB, Python, Django
+- ⚡ I love to play video-games, build gaming computers!! and Crypto Mining and Learn new things!
 
 ### Connect with me:
 
@@ -22,8 +22,17 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/344/node-js.png" />
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/344/bootstrap.png" />
+
+<img align="left" alt="Netlify" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" />
+
+
 
 <br />
 <br />
