@@ -2,17 +2,27 @@
 
 ## Striving to become a full stack web developer!
 
-- 🌱 I’m currently learning  Express.js
+- 🌱 I’m currently learning  React
 - 👯 I’m looking to collaborate in the open source community!
-- 🥅 My Goals: learn React, SQL, MySQL, MongoDB, Python, Django
+- 🥅 My Goals: SQL, PostgreSQL, Python, Django
 - ⚡ I love to play video-games, build gaming computers!! and Crypto Mining and Learn new things!
 
-### Connect with me:
+## Skills
 
-
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- Resful API | MVC Acrchitecture
+- MongoDB
+- Mongoose.js
+- Git
+- GitHub
+- WSL
+- Bash
+- VSCode
+- Agile | SCRUM methodology
 
 <br />
 
@@ -31,6 +41,19 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/344/bootstrap.png" />
 
 <img align="left" alt="Netlify" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" />
+
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/50/000000/mongodb.png" />
+
+<img align="left" alt="Mongoose JS" width="26px" src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" />
+
+<br/>
+<br/>
+
+### Connect with me:
+
+
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 
 
