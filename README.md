@@ -2,9 +2,9 @@
 
 ## Striving to become a full stack web developer!
 
-- 🌱 I’m currently learning  React
+- 🌱 I’m currently learning  C# and .NET Core
 - 👯 I’m looking to collaborate in the open source community!
-- 🥅 My Goals: SQL, PostgreSQL, Python, Django
+- 🥅 My Goals: REACT Native, .NET Core and Framework
 - ⚡ I love to play video-games, build gaming computers!! and Crypto Mining and Learn new things!
 
 ## Skills
@@ -12,10 +12,13 @@
 - HTML
 - CSS
 - JavaScript
+- React
 - Node.js
 - Express.js
 - Resful API | MVC Acrchitecture
 - MongoDB
+- SQL
+- Kendo UI
 - Mongoose.js
 - Git
 - GitHub
