@@ -1,6 +1,6 @@
 # Hello, I'm Miguel!
 
-## Striving to become a full stack web developer!
+## full stack Web Developer at ArchetypeSC!
 
 - 🌱 I’m currently learning  C# and .NET Core
 - 👯 I’m looking to collaborate in the open source community!
