@@ -2,7 +2,7 @@
 
 ## full stack Web Developer at ArchetypeSC!
 
-- 🌱 I’m currently learning  C# and .NET Core
+- 🌱 I’m currently learning Azure services!
 - 👯 I’m looking to collaborate in the open source community!
 - 🥅 My Goals: REACT Native, .NET Core and Framework
 - ⚡ I love to play video-games, build gaming computers!! and Crypto Mining and Learn new things!
@@ -17,6 +17,13 @@
 - Express.js
 - Resful API | MVC Acrchitecture
 - MongoDB
+- C#
+- ASP.NET
+- DAPPER
+- MSSQL
+- SSMS
+- ADO.NET
+- AZURE DEVOPS
 - SQL
 - Kendo UI
 - Mongoose.js
