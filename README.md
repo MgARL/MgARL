@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning Azure services!
 - 👯 I’m looking to collaborate in the open source community!
-- 🥅 My Goals: REACT Native, .NET Core and Framework
-- ⚡ I love to play video-games, build gaming computers!! and Crypto Mining and Learn new things!
+- 🥅 My Goals: Azure 900 Certification!
+- ⚡ I love to play video-games, build gaming computers, provide solutions to people's issues with the use of my technical skills and learn new things!
 
 ## Skills
 
