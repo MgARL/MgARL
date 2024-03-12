@@ -1,6 +1,6 @@
 # Hello, I'm Miguel!
 
-## full stack Web Developer at ArchetypeSC!
+## full stack Web Developer at OdysseysUnlimited!
 
 - 🌱 I’m currently learning Azure services!
 - 👯 I’m looking to collaborate in the open source community!
