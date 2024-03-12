@@ -2,7 +2,7 @@
 
 ## full stack Web Developer at OdysseysUnlimited!
 
-- 🌱 I’m currently on my Gen. Ed. classes to tranfer into my Bachelor's!
+- 🌱 I’m currently working on my Gen. Ed. classes to transfer into my Bachelor's Degree program!
 - 👯 I’m looking to collaborate in the open source community!
 - 🥅 My Goals: Get my Software Engineering Bachelor's Degree!
 - ⚡ I love to play video-games, build gaming computers, provide solutions to people's issues with the use of my technical skills and learn new things!
