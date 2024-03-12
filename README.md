@@ -1,6 +1,6 @@
 # Hello, I'm Miguel!
 
-## full stack Web Developer at OdysseysUnlimited!
+## Full Stack Web Developer at Odysseys Unlimited!
 
 - 🌱 I’m currently working on my Gen. Ed. classes to transfer into my Bachelor's Degree program!
 - 👯 I’m looking to collaborate in the open source community!
