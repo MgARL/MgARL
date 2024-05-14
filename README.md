@@ -35,6 +35,10 @@
 - Agile | SCRUM methodology
 
 <br />
+## Certifications
+[<img align="left" alt="Twitter" width="100px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" />][AzureFundametals]
+<br />
+
 
 ### Languages and Tools:
 
@@ -72,3 +76,4 @@
 
 [twitter]: https://twitter.com/mgarl22
 [linkedin]: https://www.linkedin.com/in/miguel-rodriguez-25371021b/
+[AzureFundametals]: https://learn.microsoft.com/en-us/users/miguelrodriguez-3957/credentials/d77ed2e7b6952700
