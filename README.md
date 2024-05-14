@@ -35,8 +35,12 @@
 - Agile | SCRUM methodology
 
 <br />
+
 ## Certifications
-[<img align="left" alt="Twitter" width="100px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" />][AzureFundametals]
+[<img align="left" alt="AzureFundametalsCert" width="100px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" />][AzureFundametals]
+<br />
+<br />
+<br />
 <br />
 
 
